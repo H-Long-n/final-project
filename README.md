@@ -3,7 +3,7 @@
 This project contains a shell script `simple-interest.sh` that calculates the simple interest.
 
 ## Formula
-Simple Interest = (Principal * Rate * Time) / 1000
+Simple Interest = (Principal * Rate * Time) / 2000
 
 ## Usage
 ```bash
